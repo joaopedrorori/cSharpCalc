@@ -1,0 +1,15 @@
+C:\CalcProject\bin\Debug\net8.0\CalcProject.exe
+C:\CalcProject\bin\Debug\net8.0\CalcProject.deps.json
+C:\CalcProject\bin\Debug\net8.0\CalcProject.runtimeconfig.json
+C:\CalcProject\bin\Debug\net8.0\CalcProject.dll
+C:\CalcProject\bin\Debug\net8.0\CalcProject.pdb
+C:\CalcProject\obj\Debug\net8.0\CalcProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CalcProject\obj\Debug\net8.0\CalcProject.AssemblyInfoInputs.cache
+C:\CalcProject\obj\Debug\net8.0\CalcProject.AssemblyInfo.cs
+C:\CalcProject\obj\Debug\net8.0\CalcProject.csproj.CoreCompileInputs.cache
+C:\CalcProject\obj\Debug\net8.0\CalcProject.sourcelink.json
+C:\CalcProject\obj\Debug\net8.0\CalcProject.dll
+C:\CalcProject\obj\Debug\net8.0\refint\CalcProject.dll
+C:\CalcProject\obj\Debug\net8.0\CalcProject.pdb
+C:\CalcProject\obj\Debug\net8.0\CalcProject.genruntimeconfig.cache
+C:\CalcProject\obj\Debug\net8.0\ref\CalcProject.dll
